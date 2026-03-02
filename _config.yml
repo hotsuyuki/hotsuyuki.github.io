@@ -1,0 +1,14 @@
+# Site settings
+title: "Hotsuyuki Kawanishi blog"
+email: ""
+description: "A blog about my learnings."
+baseurl: ""
+url: ""
+github_username:  "hotsuyuki"
+linkedin_username: "hotsuyuki"
+twitter_username: "hotsuyuki"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
