@@ -3,7 +3,7 @@ title: "Hotsuyuki Kawanishi blog"
 email: ""
 description: "Opinions are my own."
 baseurl: ""
-url: ""
+url: "https://hotsuyuki.github.io"
 github_username:  "hotsuyuki"
 linkedin_username: "hotsuyuki"
 twitter_username: "hotsuyuki"
@@ -12,3 +12,6 @@ twitter_username: "hotsuyuki"
 theme: minima
 plugins:
   - jekyll-feed
+
+# Google Analytics
+google_analytics: G-WY9BM54ZX4
